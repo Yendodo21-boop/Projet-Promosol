@@ -71,13 +71,14 @@ Renforcer l’autonomisation économique de femmes et jeunes en situation préca
 ---
 
 ## 5. Diagramme de Gantt (version textuelle)
-Août 2025 |Préparation & Recrutement|
-Septembre 2025|Recrutement|Formation 1|
-Octobre 2025 |Formation 1|
-Novembre 2025 |Formation 2|
-Décembre 2025 |Formation 2|
-Janvier 2026 |Formation 3|
-Février 2026 |Formation 4 |Clôture|
+|--------|--------------------|
+| Août 2025 | Préparation & Recrutement |
+| Septembre 2025| Recrutement|Formation 1 |
+| Octobre 2025 | Formation 1 |
+| Novembre 2025 | Formation 2 |
+| Décembre 2025 | Formation 2 |
+| Janvier 2026 | Formation 3 |
+| Février 2026 | Formation 4 |Clôture |
 
 
 ---
