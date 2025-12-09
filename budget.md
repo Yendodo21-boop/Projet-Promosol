@@ -1,14 +1,14 @@
 # Synthèse budgétaire – PROMOSOL-ACT
 
-Montant total du projet : **12 411 200 FCFA**
+Montant total du projet : **12 411 200 FCFA (21921€)**
 
 ---
 
 ## 1. Répartition par source
 | Source de financement | Montant | % |
 |----------------------|----------|---|
-| Participation bénéficiaires | 2 995 200 FCFA | 24% |
-| Subvention Ambassade de France (ADF 2025) | 9 416 000 FCFA | 76% |
+| Participation bénéficiaires | 2 995 200 FCFA 4566€ | 24% |
+| Subvention Ambassade de France (ADF 2025) | 9 416 000 FCFA 14355€| 76% |
 | Autres financements | — | — |
 
 ---
