@@ -1,5 +1,5 @@
 # Plan de Projet – PROMOSOL-ACT
-## Formation de femmes en situation précaire à la transformation solaire des aliments locaux
+## Formation de femmes en situation précaire à la transformation solaire des aliments locaux fnancée par l'Ambassade de France
 **Période : 1er Septembre 2025 → 30 Mars 2026**
 
 ---
