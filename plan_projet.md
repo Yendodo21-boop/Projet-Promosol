@@ -71,6 +71,7 @@ Renforcer l’autonomisation économique de femmes et jeunes en situation préca
 ---
 
 ## 5. Diagramme de Gantt (version textuelle)
+| Période | Activités |
 |--------|--------------------|
 | Septembre 2025 | Préparation & Recrutement |
 | Octobre 2025 | Recrutement |
