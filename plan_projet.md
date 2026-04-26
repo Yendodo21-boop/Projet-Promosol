@@ -1,6 +1,6 @@
 # Plan de Projet – PROMOSOL-ACT
 ## Formation de femmes en situation précaire à la transformation solaire des aliments locaux
-**Période : 1er août 2025 → 9 février 2026**
+**Période : 1er Septembre 2025 → 30 Mars 2026**
 
 ---
 
@@ -32,8 +32,8 @@ Renforcer l’autonomisation économique de femmes et jeunes en situation préca
 1.4. Préparation des équipements solaires  
 
 ### Phase 2 – Recrutement
-2.1. Diffusion radio (RNT + DJA FM)  
-2.2. Diffusion dans les assemblées ACT  
+2.1. Diffusion radio
+2.2. Diffusion dans les églises et mosquées  
 2.3. Sessions de réception des dossiers  
 2.4. Analyse et sélection  
 2.5. Publication des résultats  
@@ -43,7 +43,7 @@ Renforcer l’autonomisation économique de femmes et jeunes en situation préca
 3.2. Module 2 : Hygiène alimentaire  
 3.3. Module 3 : Utilisation des fours & séchoirs  
 3.4. Module 4 : Emballage & étiquetage  
-3.5. Module 5 : Commercialisation  
+3.5. Module 5 : Commercialisation & tenue de caisse
 
 ### Phase 4 – Clôture et remise des équipements
 4.1. Évaluations finales  
@@ -61,24 +61,24 @@ Renforcer l’autonomisation économique de femmes et jeunes en situation préca
 ## 4. Jalons clés
 | Jalons | Date | Description |
 |--------|-------|-------------|
-| Lancement administratif | 1 août 2025 | Démarrage officiel |
-| Début recrutement | 4 août 2025 | Ouverture des candidatures |
-| Fin recrutement | 5 septembre 2025 | Clôture des dossiers |
-| Sélection finale | 19 septembre 2025 | 40 apprenants retenus |
-| Début formation promo 1 | 22 septembre 2025 | Première session |
-| Fin formation promo 4 | 9 février 2026 | Fin opérationnelle du projet |
-
+| Lancement administratif | 1 septembre 2025 | Démarrage officiel |
+| Début recrutement | 4 septembre 2025 | Ouverture des candidatures |
+| Fin recrutement | 30 septembre 2025 | Clôture des dossiers |
+| Sélection finale | 15 octobre 2025 | 40 apprenants retenus |
+| Début formation promo 1 | 1 novembre 2025 | Première session |
+| Fin formation promo 4 | 28 février 2026 | Fin opérationnelle du projet |
+| Clôture officielle | 30 mars 2026 | Fin officielle du projet |
 ---
 
 ## 5. Diagramme de Gantt (version textuelle)
 |--------|--------------------|
-| Août 2025 | Préparation & Recrutement |
-| Septembre 2025| Recrutement|Formation 1 |
-| Octobre 2025 | Formation 1 |
-| Novembre 2025 | Formation 2 |
+| Septembre 2025 | Préparation & Recrutement |
+| Octobre 2025 | Recrutement |
+| Novembre 2025 | Formation 1 |
 | Décembre 2025 | Formation 2 |
 | Janvier 2026 | Formation 3 |
-| Février 2026 | Formation 4 |Clôture |
+| Février 2026 | Formation 4 |
+| Mars 2026 | Clôture |
 
 
 ---
@@ -86,8 +86,8 @@ Renforcer l’autonomisation économique de femmes et jeunes en situation préca
 ## 6. Gouvernance du projet
 - **Responsable de l’action :** Mme ROBA MAGNAMA Solange  
 - **Gestionnaire de projet :** KOATIDJA YENDOUTIE  
-- **Suivi-évaluation :** Chargée de suivi interne  
-- **Comité de pilotage :** Conseil d’administration PROMOSOL-ACT
+- **Suivi-évaluation :** Chargée de suivi interne &  KOATIDJA YENDOUTIE
+- **Comité de pilotage :** Conseil restreint
 
 ---
 
