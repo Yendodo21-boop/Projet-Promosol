@@ -25,6 +25,6 @@ Montant total du projet : **12 411 200 FCFA (21921€)**
 
 ## 3. Documents associés
 Voir le fichier source :  
-**PROMOSOL-PROJET ADF 2025-BUDGET**
+**PROMOSOL-PROJET ADF 2025-2026 BUDGET**
 
 ---
