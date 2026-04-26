@@ -7,7 +7,9 @@ about: Signaler un problème documentaire ou organisationnel
 Absences répétées liées aux problèmes familiaux  
 Prix des matières premières augmentés  
 Défaut de fabrication de 10 fours  
-
+Aléas climatiques  
+Abandon d'une apprenante  
+Problèmes organisationnels  
 ### 🔁 Étapes pour reproduire
 
 ### ✔️ Résultat attendu
