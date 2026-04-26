@@ -79,8 +79,6 @@ Renforcer l’autonomisation économique de femmes et jeunes en situation préca
 | Janvier 2026 | Formation 3 |
 | Février 2026 | Formation 4 |
 | Mars 2026 | Clôture |
-
-
 ---
 
 ## 6. Gouvernance du projet
