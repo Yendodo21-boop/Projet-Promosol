@@ -1,29 +1,29 @@
 # Calendrier prévisionnel – PROMOSOL-ACT
-Période : Août 2025 → Février 2026
+Période : Septembre 2025 → Mars 2026
 
 ---
 
-## Août 2025
+## Septembre 2025
 - Lancement du projet
 - Campagne de communication (radios et églises ACT)
 - Ouverture du recrutement
 
 ---
 
-## Septembre 2025
+## Octobre 2025
 - Analyse des dossiers
-- Sélection des 40 apprenants (19 septembre)
-- Début de la formation 1 (22 septembre)
+- Sélection des 40 apprenants
+- Mise en place du programme de la formation
 
 ---
 
-## Octobre 2025
-- Formation 1 (continuation)
+## Novembre 2025
+- Formation 1 
 - Transformation : gombo, piment, viande
 
 ---
 
-## Novembre – Décembre 2025
+## Décembre 2025
 - Formation 2
 - Transformation : céréales, farine enrichie, gingembre, ail
 
@@ -38,8 +38,12 @@ Période : Août 2025 → Février 2026
 ## Février 2026
 - Formation 4
 - Transformation : tomates, ail, mangues
+  
+---
+
+## Mars 2026
+- Clôture officielle du projet
 - Remise des attestations
 - Distribution des fours solaires
-- Clôture officielle du projet
 
 ---
