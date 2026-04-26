@@ -5,7 +5,7 @@ Période : Septembre 2025 → Mars 2026
 
 ## Septembre 2025
 - Lancement du projet
-- Campagne de communication (radios et églises ACT)
+- Campagne de communication  
 - Ouverture du recrutement
 
 ---
